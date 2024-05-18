@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmadSharif
 - 👀 I’m interested in Learning 
-- 🌱 I’m currently learning Web Development(.Net)
+- 🌱 I’m currently learning Web Development(MEAN)
 - 📫 How to reach me github.com/AmadSharif
 
 <!---
